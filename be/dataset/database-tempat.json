@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Santika Premiere Dyandra Hotel & Convention - Medan",
+      "rating": 4,
+      "reviews_count": 797,
+      "city": "Medan",
+      "address": "Jl. Kapten Maulana Lubis No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111",
+      "price": "720.108",
+      "image_url": "https://content.skyscnr.com/available/1353437466/1353437466_960x576.jpg"
+    },
+    {
+      "id": 2,
+      "name": "OYO 1240 Hotel Pantai Jaya",
+      "rating": "3,8",
+      "reviews_count": 320,
+      "city": "Pangandaran",
+      "address": "Jl. Kidang Pananjung No.65. Pangandaran. Jawa Barat 46396. Indonesia. Pangandaran",
+      "price": "180.680",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/a646ae2c-8ba0-46a1-8dbb-9973bdad0bb6-1615548909527-f6595ec9b277943e76320f183a481cad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rose Inn Pangandaran",
+      "rating": "3,9",
+      "reviews_count": 600,
+      "city": "Pangandaran",
+      "address": "Jl. Kidang Pananjung No.119. Pangandaran. Kec. Pangandaran. Pangandaran. Jawa Barat",
+      "price": "203.395",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/0e3361c8-1af9-40ee-b6ff-e5023dfa4395-1604119507166-07ffaf5c03e191cfcfabbbdecc2e46c8.jpg"
+    },
+    {
+      "id": 4,
+      "name": "OYO 1525 Benson Hotel",
+      "rating": 4,
+      "reviews_count": 221,
+      "city": "Pangandaran",
+      "address": "Wonoharjo. Pangandaran. Ciamis Regency. West Java. Pangandaran",
+      "price": "152.280",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/a75f6792-b31e-448b-a754-68ae4fb6fbcb-1615544734519-f47d306dfff74d97dfc8a004780268c8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "RedDoorz Syariah near Sunrise Park Pangandaran",
+      "rating": "3,8",
+      "reviews_count": 318,
+      "city": "Pangandaran",
+      "address": "Jl. Pengadilan Lama No.45. Pangandaran. Kec. Pangandaran. Pangandaran. Jawa Barat 46396. Indonesia",
+      "price": "537.149",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/06/10/c11dc1c0-c751-4c78-bb84-17ea1f5baa8d-1623321912517-c8103df5601c654724a7cbc0d28a5589.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pondok Sundawa 2 Pangandaran RedPartner",
+      "rating": "3,9",
+      "reviews_count": 25,
+      "city": "Pangandaran",
+      "address": "Jl. Pamugaran No.10. Cikembulan. Kec. Pangandaran. Kab. Pangandaran. Jawa Barat 46365. Indonesia",
+      "price": "183.734",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/10/64ff9bb1-3717-4c29-835a-7255b4206c18-1639131921420-449031a0612af16c21a67abaa72c674d.jpg"
+    },
+    {
+      "id": 7,
+      "name": "RedDoorz Plus @ Hotel Sofia Pangandaran",
+      "rating": "3,2",
+      "reviews_count": 541,
+      "city": "Pangandaran",
+      "address": "Jl. Sumardi No.05. Pangandaran. Kec. Pangandaran. Kab. Pangandaran. Jawa Barat 46396. Indonesia",
+      "price": "142.272",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/04/20/4a2b09bd-66e5-47cf-b606-368d9bc68908-1650426922453-07b6a263f607ffd3204ee2e9a04f69c5.jpg"
+    },
+    {
+      "id": 8,
+      "name": "RedDoorz near Pantai Barat Pangandaran 2",
+      "rating": "4,7",
+      "reviews_count": 70,
+      "city": "Pangandaran",
+      "address": "Jl. Kidang Pananjung No.168. Pangandaran. Kec. Pangandaran. Pangandaran. Jawa Barat 46396. Indonesia",
+      "price": "400.211",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/07/14/d2f7fc3b-052d-4ec0-8506-584c8ecf3031-1626254718442-b05c9ad318d4ba0e447bed27ecd2ef41.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pondok Herrlanda",
+      "rating": "4,7",
+      "reviews_count": 17,
+      "city": "Pangandaran",
+      "address": "Jl. Bulak Laut No.11. Pangandaran. Kec. Pangandaran. Kab. Pangandaran. Jawa Barat 46396. Indonesia",
+      "price": "130.878",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/17/adfa7eac-9910-4767-971d-e847c4e65b62-1639735515946-3546db68bb863ee99b434c0baed29a34.jpg"
+    },
+    {
+      "id": 10,
+      "name": "RedDoorz near Citimall Sukabumi",
+      "rating": "3,5",
+      "reviews_count": 132,
+      "city": "Sukabumi",
+      "address": "Jl. A. Yani No.283. Kebonjati. Kec. Cikole. Kota Sukabumi. Jawa Barat 43111. Indonesia",
+      "price": "427.164",
+      "image_url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/6a188c56-8c70-48c5-8991-fba503c12d1e-1604134256060-b8423686e19d75e199255f5bbad9785c.jpg"
+    }
+  ]
+}
